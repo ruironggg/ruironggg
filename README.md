@@ -5,12 +5,14 @@
 Insert header gif here
 </div> -->
 
-<div style="float: right">
-  <img alt="GIF" src= "./Retro.gif" width="350" />
-</div>
-<div style="float: left">
-  Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome! <br> <br>
-  I'm learning to do Web Dev and Data Science right now. I hope to dive into the world of AI, particularly CV and NLP, sometime later this year! <br> 
+<div style="display: flex; width: 500px;">
+  <div style="float: right; width: 350px;">
+    <img alt="GIF" src= "./Retro.gif" width="350" />
+  </div>
+  <div style="float: left; width: 150px;">
+    Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome! <br> <br>
+    I'm learning to do Web Dev and Data Science right now. I hope to dive into the world of AI, particularly CV and NLP, sometime later this year! <br> 
+  </div>
 </div>
 
 ---
