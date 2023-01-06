@@ -5,7 +5,7 @@
 Insert header gif here
 </div> -->
 
-<img align="right" alt="GIF" src= "./Retro.gif" width="300" />
+<img align="right" alt="GIF" src= "./Retro.gif" width="250" />
 <p align = "left">
 Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!<br>
 <br>
