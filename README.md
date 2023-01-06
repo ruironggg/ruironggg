@@ -5,7 +5,7 @@
 Insert header gif here
 </div> -->
 
-<div style="display: flex; width: 500px;">
+<div style="display: flex; width: 500px; margin: 0 auto;">
   <div style="float: right; width: 350px;">
     <img alt="GIF" src= "./Retro.gif" width="350" />
   </div>
