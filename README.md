@@ -6,10 +6,10 @@ Insert header gif here
 </div> -->
 
 <div style="display: flex; width: 500px; margin: 0 auto;">
-  <div style="float: right; width: 250px;">
-    <img alt="GIF" src= "./Retro.gif" width="250" />
+  <div style="flex: 1;">
+    <img alt="GIF" src= "./Retro.gif" width="350" />
   </div>
-  <div style="float: left; width: 250px;">
+  <div style="flex: 2;">
     Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome! <br> <br>
     I'm learning to do Web Dev and Data Science right now. I hope to dive into the world of AI, particularly CV and NLP, sometime later this year! <br> 
   </div>
