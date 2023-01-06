@@ -9,7 +9,7 @@ Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore. I'm a cr
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/ruironggg/ruironggg/Retro.gif" />
+<img align="right" alt="GIF" src="https://github.com/ruironggg/ruironggg/blob/master/Retro.gif" />
 
  <br>
 
