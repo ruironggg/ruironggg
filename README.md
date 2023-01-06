@@ -5,10 +5,15 @@
 Insert header gif here
 </div> -->
 
-Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.**
+Hi, I'm **Ruirong**, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!
+Hey, I'm also interested in entrepreneurship and the startup scene! I want to learn from great leaders and hope to move the world from 0 to 1 someday!
 
 <br>
+
 <img align="right" alt="GIF" src= "./Retro.gif"/>
+
+- I'm currently learning: **Docker**
+  <br>
 
 ---
 
@@ -23,18 +28,3 @@ Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore. I'm a cr
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-<!--
-**ruironggg/ruironggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
