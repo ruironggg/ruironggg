@@ -5,22 +5,17 @@
 Insert header gif here
 </div> -->
 
-<img align="right" alt="GIF" src= "./Retro.gif" width="300" />
 <br>
 Hi, I'm **Ruirong**, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!<br>
 Hey, I'm also interested in entrepreneurship and the startup scene! I want to learn from great leaders and hope to move the world from 0 to 1 someday!
-</br>
 ---
 
+<img align="right" alt="GIF" src= "./Retro.gif" width="300" />
+<p align = "left">
 - 🔎 How to reach me: [Linkedin](https://www.linkedin.com/in/jiang-ruirong/);
 - testing
 - testing
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruironggg" alt="testing" /> </p>
-
-</br>
-
+</p>
 ---
 
 ### 🧰 Languages and Tools
