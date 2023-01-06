@@ -14,6 +14,8 @@ I'm learning to do Web Dev and Data Science right now. I hope to dive into the w
 Hey, I'm also interested in entrepreneurship and the startup scene! I'm currently aiming to learn from great leaders & mentors and I hope to move the world from 0 to 1 someday!
 </p>
 
+<br>
+
 ---
 
 ### 🧰 Languages and Tools
