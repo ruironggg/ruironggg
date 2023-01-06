@@ -11,7 +11,7 @@ Hey, I'm also interested in entrepreneurship and the startup scene! I want to le
 
 ---
 
-<img align="right" alt="GIF" src= "./Retro.gif"/ width="48">
+<img align="right" alt="GIF" src= "./Retro.gif" width="48" />
 
 - 🔎 How to reach me: [Linkedin](https://www.linkedin.com/in/jiang-ruirong/);
 - testing
