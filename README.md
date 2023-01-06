@@ -8,9 +8,7 @@ Insert header gif here
 Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.**
 
 <br>
-
-<img align="right" alt="GIF" src="https://github.com/ruironggg/ruironggg/blob/master/Retro.gif" />
-
+![Retro](https://user-images.githubusercontent.com/105039474/211100041-f0ec05ce-c324-4023-a730-4147597106ba.gif)
  <br>
 
  </br>
