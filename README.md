@@ -7,11 +7,13 @@ Insert header gif here
 
 <img align="right" alt="GIF" src= "./Retro.gif" width="300" />
 <p align = "left">
-Hi, I'm **Ruirong**, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!<br>
-Hey, I'm also interested in entrepreneurship and the startup scene! I want to learn from great leaders and hope to move the world from 0 to 1 someday!
+Hi, I'm Ruirong, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!<br>
+I'm learning to do Web Dev, Data Science. I hope to touch into CV and NLP sometime later this year!<br>
+Hey, I'm also interested in entrepreneurship and the startup scene! I'm currently aiming to learn from great leaders & mentors and I hope to move the world from 0 to 1 someday!
 </p>
 
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
