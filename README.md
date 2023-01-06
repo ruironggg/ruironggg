@@ -5,10 +5,9 @@
 Insert header gif here
 </div> -->
 
-<br>
 Hi, I'm **Ruirong**, a Data Science student 👨🏻‍💻 from Singapore and I love creating things that are cool and awesome!<br>
 Hey, I'm also interested in entrepreneurship and the startup scene! I want to learn from great leaders and hope to move the world from 0 to 1 someday!
-<br>
+
 ---
 
 <img align="right" alt="GIF" src= "./Retro.gif" width="300" />
